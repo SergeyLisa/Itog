@@ -1,0 +1,15 @@
+D:\git_Visual\dz_itog\dz_task64\obj\Debug\net6.0\dz_task64.csproj.AssemblyReference.cache
+D:\git_Visual\dz_itog\dz_task64\obj\Debug\net6.0\dz_task64.GeneratedMSBuildEditorConfig.editorconfig
+D:\git_Visual\dz_itog\dz_task64\obj\Debug\net6.0\dz_task64.AssemblyInfoInputs.cache
+D:\git_Visual\dz_itog\dz_task64\obj\Debug\net6.0\dz_task64.AssemblyInfo.cs
+D:\git_Visual\dz_itog\dz_task64\obj\Debug\net6.0\dz_task64.csproj.CoreCompileInputs.cache
+D:\git_Visual\dz_itog\dz_task64\bin\Debug\net6.0\dz_task64.exe
+D:\git_Visual\dz_itog\dz_task64\bin\Debug\net6.0\dz_task64.deps.json
+D:\git_Visual\dz_itog\dz_task64\bin\Debug\net6.0\dz_task64.runtimeconfig.json
+D:\git_Visual\dz_itog\dz_task64\bin\Debug\net6.0\dz_task64.dll
+D:\git_Visual\dz_itog\dz_task64\bin\Debug\net6.0\dz_task64.pdb
+D:\git_Visual\dz_itog\dz_task64\obj\Debug\net6.0\dz_task64.dll
+D:\git_Visual\dz_itog\dz_task64\obj\Debug\net6.0\refint\dz_task64.dll
+D:\git_Visual\dz_itog\dz_task64\obj\Debug\net6.0\dz_task64.pdb
+D:\git_Visual\dz_itog\dz_task64\obj\Debug\net6.0\dz_task64.genruntimeconfig.cache
+D:\git_Visual\dz_itog\dz_task64\obj\Debug\net6.0\ref\dz_task64.dll
